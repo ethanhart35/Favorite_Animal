@@ -15,8 +15,10 @@ body {
 
 .footer {
     background: darkgray;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
+    margin-top: 25px;
+    border-top: 1px solid black;
 }
 
