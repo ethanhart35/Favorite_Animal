@@ -1,0 +1,22 @@
+body {
+    background: lightgray;
+}
+
+.info {
+    text-align: left;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 0px;
+}
+
+.jumbotron {
+    border-bottom: 5px solid darkgray;
+}
+
+.footer {
+    background: darkgray;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
