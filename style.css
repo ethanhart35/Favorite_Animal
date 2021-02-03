@@ -4,21 +4,19 @@ body {
 
 @media (min-width: 576px) {
     .jumbotron {
-      padding: 0; 
-      margin: 5px;
-  }
-  }
-
-  .jumbotron {
-      padding-left: 30px;
-      padding-right: 30px;
-      padding-top: 10px;
-      padding-bottom: 10px;
-  }
-
-.navbar {
-    
+        padding: 0;
+        margin: 5px;
+    }
 }
+
+.jumbotron {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar {}
 
 .info {
     text-align: left;
